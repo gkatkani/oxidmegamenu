@@ -18,5 +18,8 @@
             "Gauravkatkani\\" : "Gauravkatkani/"
         }
     },
+    "config": {
+        "optimize-autoloader": true
+    },
     "version": "1.0.0"
 }
