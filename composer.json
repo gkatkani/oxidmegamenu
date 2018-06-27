@@ -1,0 +1,22 @@
+{
+    "name": "gauravkatkani/oxidmegamenu",
+    "description": "this is for testing only",
+    "type": "oxid-module",
+    "keywords": ["megamenu search", "search"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gaurav",
+            "email": "gkatkani@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "Gauravkatkani\\" : "Gauravkatkani/"
+        }
+    },
+    "version": "1.0.0",
+}
